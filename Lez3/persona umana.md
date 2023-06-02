@@ -1,0 +1,1 @@
+Equivalente alla **persona fisica** del diritto civile

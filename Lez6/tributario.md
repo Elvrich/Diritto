@@ -1,0 +1,1 @@
+Relativo al pagamento di tributi dal punto di vista amministrativo e giuridico (fisco)

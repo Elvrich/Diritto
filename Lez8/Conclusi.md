@@ -1,0 +1,1 @@
+quando un contratto viene stipilato

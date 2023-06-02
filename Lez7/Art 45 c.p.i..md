@@ -1,0 +1,2 @@
+Dal codice della proprieta' industriale:
+	Possono costituire oggetto di brevetto per invenzione le invenzioni, di ogni settore della trcnica, che sono nuove e che inplicano un'attivita' inventiva e sono atte ad avere un'**applicazione indstruale** 

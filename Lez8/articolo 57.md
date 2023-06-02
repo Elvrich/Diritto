@@ -1,0 +1,1 @@
+costo della restituzione dei beni, a meno che il professionista non abbia concordato di sostenerlo o abbia omesso di informare il consumatore che tale costo e' a carico del consumatore

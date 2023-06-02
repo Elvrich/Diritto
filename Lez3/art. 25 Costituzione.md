@@ -1,0 +1,2 @@
+# Riguardo al Principio di legalità
+> ... Nessuno può essere punito se non in forza di una legge che sia entrata in vigore prima del fatto commesso. Nessuno può essere sottoposto a misure di sicurezza non nei casi previsti dalla legge.

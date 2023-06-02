@@ -1,0 +1,1 @@
+~~Il compimento di qualcosa che è un reato o che causa l'evento che consiste nel reato~~

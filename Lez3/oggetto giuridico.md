@@ -1,0 +1,1 @@
+concetto astratto di carattere giuridico

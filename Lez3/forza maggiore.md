@@ -1,0 +1,1 @@
+forze naturali sopravvenute esterne all'agente (uccisione del passante da parte di operaio che cade da un'impalcatura a causa di una trova d'aria improvvisa)

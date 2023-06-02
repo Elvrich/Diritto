@@ -1,0 +1,1 @@
+conclusi "online" ed eseguiti "offline"

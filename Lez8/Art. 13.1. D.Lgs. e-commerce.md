@@ -1,0 +1,1 @@
+Le norme sulla conclusione dei contratti si applicano anche nei casi di inoltro dell'ordine per via elettronica

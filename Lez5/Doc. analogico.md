@@ -1,0 +1,1 @@
+La rappresentazione non informatica di atti, fatti o dati giuridicamente rilevanti.
