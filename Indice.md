@@ -1,3 +1,4 @@
+- **[[Lez2]]: Regolamento UE sul Data Protection**
 - **[[Lez3]]: Principi e concetti essenziali di Diritto Penali**
 - **[[Lez4]]: Diffamazione e Social Network**
 - **[[Lez5]]:  Documenti e Firme Elettroniche**
