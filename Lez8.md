@@ -8,10 +8,10 @@
 - Forma (quando richiesta ad [[substatiam]])
 
 ### Accordo delle parti
-Si ha un accordo quando due o piu' persone manifestano reciprocamente le prorpie volotna', e queste sono dirette allo stesso scopo.
-L'accordo fra le parti puo' essere manifestato in due modi:
-**Tacito**: l'intenzione di stipulare il contratto e' manifestata dal comprtamento delle parti
-**Espresso**: consiste in una dichiarazione specifica, scritta o orale che contiene la volotna' di conludere un determinato contratto
+Si ha un accordo quando due o piu' persone manifestano reciprocamente le proprie volontà, e queste sono dirette allo stesso scopo.
+L'accordo fra le parti può essere manifestato in due modi:
+**Tacito**: l'intenzione di stipulare il contratto e' manifestata dal comportamento delle parti
+**Espresso**: consiste in una dichiarazione specifica, scritta o orale che contiene la volontà di concludere un determinato contratto
 ### Causa
 La causa e' il riferimento  alla funzione economica (in senso ampio) che le parti intendono realizzare con quel contratto
 >per approfondire:
@@ -19,10 +19,10 @@ La causa e' il riferimento  alla funzione economica (in senso ampio) che le part
 
 La causa e' illecita quando e' contraria a norme imperative (illegale), all'ordine pubblico o al buon costume (immorale).
 
-Le obbligazioni naturali ([[art. 2034 c.c.]]), sono quelle obbligazioni che trovano fonte nei doveri morali e sociali che, pur non essendo giuridici, quindi non coercibili, non sono idifferenti per l'ordinamento
+Le obbligazioni naturali ([[art. 2034 c.c.]]), sono quelle obbligazioni che trovano fonte nei doveri morali e sociali che, pur non essendo giuridici, quindi non coercibili, non sono indifferenti per l'ordinamento
 
 ### Oggetto
-Dall'[[art. 1346 c.c.]] L'oggetto del cotratto deve essere:
+Dall'[[art. 1346 c.c.]] L'oggetto del contratto deve essere:
 - possibile,
 - lecito,
 - determinato o determinabile.
@@ -34,31 +34,29 @@ Dall'[[art. 1346 c.c.]] L'oggetto del cotratto deve essere:
 - contratti formali (Atto pubblico e scrittura privata - [[art. 1350 c.c.]])
 - forma ad [[substantiam]] / forma ad [[probationem]]
 
-## Contratti Telematici
-> Contratti stipulati per via elettronica, mediante l'uso di un computer 
+![[Contratti Telematici]]
 
-#def 
 ### Tipologie di contratti telematici
 1. [[diretti]] e [[indiretti]]
-2. SIti [[internet]] ed [[E-mali]]
+2. Siti [[internet]] ed [[E-mali]]
 3. [[Business to business]] e [[business to consumer]]
 	1. def. [[Professionista]]
 	2. def. [[consumatore]]
 
 ### Diritto di recesso
 Il codice civile prevede la regola generale, secondo cui un contratto una volta stipulata non possa essere sciolto, se non per mutuo connesso o per cause ammesse della legge [[art. 1372 c.c. primo comma]] 
-Una delle cause ammesse dalla legge per potersi liberare dell'obblgazione contrattuale e' il caso del recesso unilaterale, ossia il caso in cui una parte puo' esercitare la facolta' di recedere dal contratto a determinate condizioni:
-- se questa facolta' e' prevista nel contratto
+Una delle cause ammesse dalla legge per potersi liberare dell'obbligazione contrattuale e' il caso del recesso unilaterale, ossia il caso in cui una parte può esercitare la facoltà di recedere dal contratto a determinate condizioni:
+- se questa facoltà e' prevista nel contratto
 	e
-- finchè il contratto non abbia avuto un principio di esecuzione.
+- finché il contratto non abbia avuto un principio di esecuzione.
 
-Il Codice del Consumo (D. Lsg. 206 del 2005) ha introdotto un correttivo a questa regola generale, laddove il contratto sia stato stipulato
+Il Codice del Consumo ([[D.Lsg. 206 del 2005]]) ha introdotto un correttivo a questa regola generale, laddove il contratto sia stato stipulato
 - Da consumatore 
 	e
 - a distanza o negoziato fuori dei locali commerciali.
 
 In presenza di tali circostanze, l[['art. 52 Cod. Consumo]] consente il consumatore di potersi liberare dall'obbligo contrattuale e quindi di esercitare il diritto di recesso senza dover fornire alcuna motivazione e senza dover sostenere costi diversi da quelli previsti all'[[articolo 56, comma 2]] e all'[[articolo 57]].
-**Il termine per l'esercizio del diritto di recesso e' di 14 giorni**, salvo che le parti non abbiano concordato un termine piu' lungo.
+**Il termine per l'esercizio del diritto di recesso e' di 14 giorni**, salvo che le parti non abbiano concordato un termine più lungo.
 
 #### Eccezioni
 ![[art. 59 del D.lgs. 205.2006]]
@@ -69,16 +67,16 @@ Costituiscono eccezioni al diritto di recesso:
 3. la fornitura di beni confezionati su misura o chiaramente personalizzati;
 4. la fornitura di beni che rischiano di deteriorarsi o scadere rapidamente;
 5. la fornitura di beni sigillati che non si prestano ad essere restituiti per motivi igienici o connessi alla protezione della salute e sono stati aperti dopo la consegna;
-6. la fornitura di beni che , dopo la consegna, risultano, per loro natura, inscindibilemente mescolati con altri beni;
+6. la fornitura di beni che , dopo la consegna, risultano, per loro natura, inscindibilmente mescolati con altri beni;
 7. la fornitura di bevande alcoliche, il cui prezzo sia stato concordato al momento della conclusione del contratto di vendita, la cui consegna possa avvenire solo dopo trenta giorni e il cui valore effettivo dipenda da fluttuazioni sul mercato che non possono essere controllate dal professionista;
 8. i contratti in cui il consumatore ha specificatamente richiesto una visita da parte del professionista ai fini dell'effettuazione di lavori urgenti di riparazione o manutenzione. Se, in occasione di tale visita, il professionista fornisce servizi oltre a quelli specificamente richiesti dal consumatore o beni diversi dai pezzi di ricambio necessari per effettuare la manutenzione o le riparazioni, il diritto di recesso si applica a tali servizi o beni supplementari
 9. la **fornitura di registrazioni audio o video sigillate o di software informatici sigillati** che sono **stati aperti dopo la consegna**;
-10. la fornitura di giornalim oeriodici e riviste ad eccezione dei contratti di abbonamento per la fornitura di tali pubblicazioni;
+10. la fornitura di giornali periodici e riviste ad eccezione dei contratti di abbonamento per la fornitura di tali pubblicazioni;
 11. i contratti conclusi in occasione di un'asta pubblica;
-12. la fornitura di alloggi per fini non residenziali, il trasporto di beni, i servizi di noleggio di autovetture, i servizi di catering o i servizi riguardanti le attivita' del tempo libero qualora il contratto preveda una data o un periodo di esecuzione specifici
+12. la fornitura di alloggi per fini non residenziali, il trasporto di beni, i servizi di noleggio di autovetture, i servizi di catering o i servizi riguardanti le attività del tempo libero qualora il contratto preveda una data o un periodo di esecuzione specifici
 13. la **fornitura di contenuto digitale mediante un supporto non materiale** se **l'esecuzione e' iniziata con l'accordo espresso del consumatore** e con la **sua _accettazione_ del fatto che il tal caso avrebbe perso il diritto di recesso**.
 - **e' possibile esercitare il diritto di recesso in caso di acquisti in negozio?**
-	Il diritto di recesso puo' essere esercitato per contratti conlusi a distanza o negoziati fuori dai locali commerciali (**art. 53 cod. Consumo**), pertanto non potra' essere esercitato nel caso di acquisti effettuati in negozio, salvo che non vi sia un diverso accordo tra le parti.
+	Il diritto di recesso può essere esercitato per contratti conclusi a distanza o negoziati fuori dai locali commerciali (**art. 53 cod. Consumo**), pertanto non potrà essere esercitato nel caso di acquisti effettuati in negozio, salvo che non vi sia un diverso accordo tra le parti.
 
 ### Garanzia generale
 
@@ -91,15 +89,15 @@ Il compratore ha l'onere di denunciare al venditore i vizi del bene stesso **ent
 
 Alla garanzia generale prevista dal codice civile, si affiancano le tutele previste dal codice del consumo quando il venditore e' un professionista e il compratore e' un consumatore
 
-gli [[artt. 130]] e seguenti del condice suddetto prevedono che il venditore e' responsabile nei confronti del consumatore oer qualsiasi difetto di conformita' eseistente al momento della consegna del bene.
-Il consumatore ha l'oonere di denunciare al venditore i vizi del bene stesso **entro due mesi** dalla loro scoperta e l'azione diretta si prescrive nel termine di ventisei mesi dalla consegna del bene.
+gli [[artt. 130]] e seguenti del codice suddetto prevedono che il venditore e' responsabile nei confronti del consumatore per qualsiasi difetto di conformità esistente al momento della consegna del bene.
+Il consumatore ha l'onere di denunciare al venditore i vizi del bene stesso **entro due mesi** dalla loro scoperta e l'azione diretta si prescrive nel termine di ventisei mesi dalla consegna del bene.
 
 ## Clausole Vessatorie
 >Sono delle clausole particolarmente limitanti il soggetto debole (consumatore).
->Limite di responsabilita' del profesisonista:
+>Limite di responsabilità del professionista:
 \- Prof. Montalcini
 
-Sono clausole inserite all'interno di un tegolamento contrattuale, che per il loro contenuto comportano uno squilibrio di diritti e obblighi a danno di una parte e a favore di un'altra.
+Sono clausole inserite all'interno di un regolamento contrattuale, che per il loro contenuto comportano uno squilibrio di diritti e obblighi a danno di una parte e a favore di un'altra.
 La disciplina applicabile varia a seconda della natura dei contraenti:
 1. nel c.c. ([[artt. 1341 e 1342 c.c.]]): si applica nel caso di contratti conlcusi tra professionisti o imprenditori (B2B, ossia _Business to business_) o tra consumatori (C2C ossia _consumer to consumer_);
 2. nel Cod. Consumo ([[artt 33 s.s. d. lgs. 205.2006]]): si applica nel caso in cui uno dei contraenti sia un consumatore e l'altro un professinoista o imprenditore (B2C ossia _business to consumer_).
