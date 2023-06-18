@@ -1,3 +1,4 @@
+- **[[Lez1]]: Regolamento UE sul Data Protection - Principi Generali e Definizioni Soggetti** 
 - **[[Lez2]]: Regolamento UE sul Data Protection**
 - **[[Lez3]]: Principi e concetti essenziali di Diritto Penali**
 - **[[Lez4]]: Diffamazione e Social Network**

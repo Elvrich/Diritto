@@ -1,0 +1,1 @@
+Prevenire e non correggere
