@@ -24,10 +24,10 @@ Il titolare del trattamento deve mettere in atto misure tecniche e organizzative
 - Lettere Incarico / Nomina Responsabile / ...
 - Policy Organizzativa e Misure (Tecniche) di Sicurezza
 
-# Applicabilità GDPR alle sole [[persone fisiche]], Definizione Trattamento e dato personale
+# Applicabilità GDPR alle sole [persone fisiche](persona%20fisica.md fisica>), Definizione Trattamento e dato personale
 
 ![[dato personale]]
- ![[trattamento]]
+![[trattamento]]
  
 ## Trattamento di categorie particolari di dati personali
 ![[ex dati sensibili]]

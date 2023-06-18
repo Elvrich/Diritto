@@ -62,49 +62,49 @@ m
 
 ## Condotta
 - Elemento essenziale e fondamentale:
-> **Senza condotta non puo' esserci reato**
-> (mentre puo' esserci reato senza evento)
-- puo' consistere in una **[[azione]]** o in una **[[omissione]]**
+> **Senza condotta non può esserci reato**
+> (mentre può esserci reato senza evento)
+- può consistere in una **[[azione]]** o in una **[[omissione]]**
 
 ### L'evento
 È il **risultato** dell'[[azione]] o dell'[[omissione]] e deve a queste essere legato da nesso causale
 
-Non tutte le fattiscpecie di reato prevedono l'esistenza di un vevento, tanto che accanto ai reati di evento (Es omicidio) vi sono i **==[[reati di pura condotta]]==** (esempio evasione - accesso abusivo al sistema informatico)
+Non tutte le fattispecie di reato prevedono l'esistenza di un evento, tanto che accanto ai reati di evento (Es omicidio) vi sono i **==[[reati di pura condotta]]==** (esempio evasione - accesso abusivo al sistema informatico)
 
-Levento è non solo **materialmente** ma talvolta anche cronologicamente distinto dalla condotta
+L'evento è non solo **materialmente** ma talvolta anche cronologicamente distinto dalla condotta
 
 - Si parla di **reati ad evento differito** quando l'evento segue a distanza di tempo la condotta (es morte nell'omicidio) e
 - di **reati a distanza** quando l'evento si verifica in luogo diverso da quello in cui si è svolta la condotta (es minaccia via internet; lesioni provocate da pacco esplosivo recapitato).
 
-Infine l'evento puo' essere **di danno** o **di pericolo** a seconda che leda o metta soltanto in pericolo il [[bene]] protetto dalla norma
+Infine l'evento può essere **di danno** o **di pericolo** a seconda che leda o metta soltanto in pericolo il [[bene]] protetto dalla norma
 
-## Rapporto di causalita'
-- Per poter attribuire all'agente un fatto penalmente illecito e' mecessario che condotta ed evento siano tra loro legati da [[nesso causale]]
+## Rapporto di causalità
+- Per poter attribuire all'agente un fatto penalmente illecito e' necessario che condotta ed evento siano tra loro legati da [[nesso causale]]
 - L'art. 40 CP a questo proposito usa il termine ==conseguenza==
-- Ancor prima, l'art 27 Cost. col termine ==personale== ha voluto escluidere la responsabilità penale **per fatto altrui**.
+- Ancor prima, l'art 27 Cost. col termine ==personale== ha voluto escludere la responsabilità penale **per fatto altrui**.
 ### [[caso fortuito]] e [[forza maggiore]]
-- Art 45 CP parla di non punibilita' per il caso in cui il foatto sia stato commesso per caso foruito o forza maggiore
-- si tratta di fattori che escludono il rapporto di causalita' tra condotta ed evento
+- Art 45 CP parla di non punibilità per il caso in cui il fatto sia stato commesso per caso fortuito o forza maggiore
+- si tratta di fattori che escludono il rapporto di causalità tra condotta ed evento
 
 ## Elemento Soggettivo del Reato
-- I moderni sistemi penali adottano il SISTEMA MISTO: non basta la lesione oggettiva del [[bene]], non basta sola volonta' criminosa.
-- ENTRAMBI: cioe' LESIONE+ELEMENTO PSICOLOGICO
+- I moderni sistemi penali adottano il SISTEMA MISTO: non basta la lesione oggettiva del [[bene]], non basta sola volontà criminosa.
+- ENTRAMBI: cioè LESIONE+ELEMENTO PSICOLOGICO
 
-in sostana il fatto illecito **_deve appartenere psicologicamente all'autore della condotta_**
+in sostanza il fatto illecito **_deve appartenere psicologicamente all'autore della condotta_**
 > _Storicamente_:
-> responsabilita' per fatto altrui
-> responsabilita' oggettiva (fatto proprio senza nesso psichico)
+> responsabilità per fatto altrui
+> responsabilità oggettiva (fatto proprio senza nesso psichico)
 
-- responsabilita' colpevole (fatto + attribuibilita' psichica)
-- responsabilita' personalizzata (art. 27 Cost. fatto proprio colpevole con esclusione di ogni forma di responsabilità oggettiva)
+- responsabilità colpevole (fatto + attribuibilità psichica)
+- responsabilità personalizzata (art. 27 Cost. fatto proprio colpevole con esclusione di ogni forma di responsabilità oggettiva)
 ### Colpevolezza
 e' strutturata su 3 capisaldi fondamentali:
-- **imputabilita'**
-- **conoscenza/conoscibilita' del precetto penale**
+- **imputabilità
+- **conoscenza/conoscibilità del precetto penale**
 - **dolo** o **colpa**
 
 #### Il Dolo
-È rappresentazione e volotna' del fatto materiale tipico e quindi di TUTTI GLI ELEMENTI (oggettivi-positivi-negativi) della fattispecie di reato
+È rappresentazione e volontà del fatto materiale tipico e quindi di TUTTI GLI ELEMENTI (oggettivi-positivi-negativi) della fattispecie di reato
 >[[Art. 43 CP]]: definizione del dolo
 
 #### La colpa

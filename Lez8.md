@@ -8,7 +8,7 @@
 - Forma (quando richiesta ad [[substatiam]])
 
 ### Accordo delle parti
-Si ha un accordo quando due o piu' persone manifestano reciprocamente le proprie volontà, e queste sono dirette allo stesso scopo.
+Si ha un accordo quando due o più persone manifestano reciprocamente le proprie volontà, e queste sono dirette allo stesso scopo.
 L'accordo fra le parti può essere manifestato in due modi:
 **Tacito**: l'intenzione di stipulare il contratto e' manifestata dal comportamento delle parti
 **Espresso**: consiste in una dichiarazione specifica, scritta o orale che contiene la volontà di concludere un determinato contratto

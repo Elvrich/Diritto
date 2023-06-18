@@ -1,0 +1,1 @@
+I trattamenti da parte di un responsabile del trattamento sono **_disciplinati da un contratto o da altro atto giuridico_** a norma del diritto dell'Unione o degli Stati membri.
