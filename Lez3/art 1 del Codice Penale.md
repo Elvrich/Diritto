@@ -1,1 +1,1 @@
-> Nessuno può essere punito per un fatto che non sia espressamente preveduto come reato dalla legge, né con pene che non siano da essa stabilite
+> **Nessuno** può essere **punito** per **un fatto che non sia espressamente preveduto come reato dalla legge**, né con **pene che non siano da essa stabilite**

@@ -1,3 +1,3 @@
->Solo al potere legislatico appartiene il minopoilio normatico in materia penale 
+>Solo al potere legislativo appartiene il monopolio normativo in materia penale 
 
 \- art. 25 Cost.

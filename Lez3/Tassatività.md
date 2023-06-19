@@ -1,1 +1,1 @@
-Riguardo alla tecnica di formulazione delle norme penali (indicazione precisa di ciò che è penalmente illecito e divieto per il giudice di fare ricorso all'analogia)
+Riguardo alla tecnica di FORMULAZIONE delle norme penali (indicazione precisa di ciò che è penalmente illecito e divieto per il giudice di fare ricorso all'analogia)

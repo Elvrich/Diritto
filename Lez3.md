@@ -1,33 +1,33 @@
 # il diritto penale
-Il Diritto Penale e' il settore dell'ordinamento giuridico che regolamenta l'autorita' punitiva dello stato in caso di violazione di determinati [[Precetto]]
+Il Diritto Penale e' il settore dell'ordinamento giuridico che regolamenta l'autorità punitiva dello stato in caso di violazione di determinati [[Precetto]]
 
 È l'insieme di norme giuridiche con le quali lo Stato proibisce, mediante la minaccia di pena, comportamenti umani che categorizzate in [azioni](azione.md) e [omissioni](omissione.md)
 
-Con pene, genericamente, lo stato infligge una sofferezza alla persona che ha violato un dovere giuridico (~~precetto~~). Il che consiste nella privazione o diminuzioni di un bene individuali quali, es:
-- puo' andare a toccare la liberta' personale, (es. con la reclusione)
-- puo' toccare semplicemente il patrimonio (~~anche il sequestro di un veicolo~~)
+Con pene, genericamente, lo stato infligge una sofferenza alla persona che ha violato un dovere giuridico (~~precetto~~). Il che consiste nella privazione o diminuzioni di un bene individuali quali, es:
+- può andare a toccare la libertà personale, (es. con la reclusione)
+- può toccare semplicemente il patrimonio (~~anche il sequestro di un veicolo~~)
 
-~~Cio' che comporta la reclusione o anche una multa, si definisce [[delitto]]~~
+~~Ciò che comporta la reclusione o anche una multa, si definisce [[delitto]]~~
 
 Il **codice penale** e' la principale fonte di norme giuridiche penali, ed è costituito dal **[[Codice Penale]]**, al quale si aggiunge la normativa speciale.
 
 
 
-## Principio di legalita'
+## Principio di legalità
 Il Diritto Penale si fonda sul principio di legalità,
 >_Nullum crimen, nulla poena sine lege_
 >parafraso: "niente legge, niente crimine"
 
 si cita l'[art. 25 della Costituzione](<art. 25 Costituzione#Riguardo al Principio di legalità>) riguardo al principio di legalità e l'[[art 1 del Codice Penale]]
 
-La **legalita' formale** si basa su _tre presupposti_
+La **legalità formale** si basa su _tre presupposti_
 1. **[[Riserva di Legge]]**
 2. **[[Tassatività]]**
-3. **[[Irretroattivita']]**
+3. **[[Irretroattività]]**
 
 ## Il reato
 Il soggetto attivo del reato e' **Solo la [[persona umana]]**
-- responsabilita' Enti ed Aziende D. Lgs. 231/2000
+- responsabilità Enti ed Aziende D.Lgs. 231/2000
 - Electronic Agents / Intelligenza Artificiale
 
 Si distingue tra:
