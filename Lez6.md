@@ -1,4 +1,4 @@
-# Esempio di caso [tributario](tributario.md) e penale
+# Esempio di caso [[tributario]] e penale
 Con la partecipazione della Dott.ssa Caputo ~~da Roma~~
 È stato un caso esaminato da un collegio tributario e poi uno penale
 ## argomenti toccati
@@ -17,7 +17,7 @@ Nascono due ~~trattative~~ penali.
 2. ...
 
 # Accesso abusivo a Sistemi Informatici o Telematici
-![art. 615 ter cp](art.%20615%20ter%20cp.md) 
+![[art. 615 ter cp]] 
 
 ## aggravanti
 1. se il fatto e' commesso da un **pubblico ufficiale** o da un incaricato di un pubblico servizio, con abuso dei poteri, o con violazione dei doveri inerenti alla funzione o al servizio, o da chi **esercita anche abusivamente la professione di investigatore privato**, o con **abuso delle qualita' di operatore del sistema**;
@@ -37,5 +37,5 @@ Il dipendente di un'azioenda, all'atto delle sue dimissioni, aveva copiato su al
 #NB si noti che il danneggiamento dei dati informatici e' un altro reato, ma se è in concomitanza all'accesso abusivo, allora rientra come aggravante
 
 ## Danneggiamento Informatico
-[art 635 bis cp](art%20635%20bis%20cp)
+[[art 635 bis cp]]
 Chiuque distrugge, deteriora o rende, in tutto o in parte, inservibili sistema informatici altrui, ovvero programmi, infomrazioni o dati altrui, e' punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da sei mesi a tre anni, ricorre una o piu' delle circostanze di cui al secondo comma dell'articolo 635, ovvero se il fatto e' commesso con abuso della qualita' di operatore del sistema, la pena e' della reclusione da uno a quattro anni

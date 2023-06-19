@@ -1,1 +1,1 @@
-Equivalente alla **[persona fisica](persona%20fisica.md)** del diritto civile
+Equivalente alla **[[persona fisica]]** del diritto civile

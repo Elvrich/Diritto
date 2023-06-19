@@ -1,11 +1,11 @@
 # Data Protection
 **Soggetti**: Informativa - liceità Trattamento, Data Breach
 ## Soggetti che effettuano il Trattamento
-![titolare del trattamento](titolare%20del%20trattamento.md)
-![responsabile del trattamento](responsabile%20del%20trattamento.md)
-![incaricato](incaricato.md)
-![interessato](interessato.md)
-## Diritti dell' [interessato](Interessato.md)
+![[titolare del trattamento]]
+![[responsabile del trattamento]]
+![[incaricato]]
+![[interessato]]
+## Diritti dell' [[Interessato]]
 1. **Conoscitivi**:
 	- diritto a ricevere l'informativa
 	- diritto di richiedere ed ottenere informazioni (accesso)
@@ -23,7 +23,7 @@ Obbligatorio in 3 casi:
 1. autorità pubblica o organismo pubblico
 2. controllo regolare e sistematico degli interessati su larga scala
 3. trattamento, su larga scala, di categorie particolare di dati
-![responsabile della protezione dei dati](responsabile%20della%20protezione%20dei%20dati.md)
+![[responsabile della protezione dei dati]]
 ## Autorità di controllo in ambito GDPR Privacy
 **Ogni stato membro** dispone di un'autorità per la protezione dei dati. Le Autorità sono riunite nel **Comitato Europeo (CEPD o EDPB)**
 In Italia: Autorià Garante Protezione dei Dati Personali (o autorità Garante Privacy). Una delle **Autorità Amministrative indipendenti (Authority)**.

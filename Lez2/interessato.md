@@ -1,6 +1,6 @@
 [Art 4 Regolamento UE 2016.679 - Definizioni]
 # Interessato
-La [persona fisica](persona%20fisica.md) identificata o identificabile cui si riferiscono i dati personali
+La [[persona fisica]] identificata o identificabile cui si riferiscono i dati personali
 
 **_E' il baricentro della normativa che deve essere interpretata sempre a sua tutela_**
 All'**Interessato** si ricollegano principalmente **DIRITTI** previsti dalla normativa agli altri soggetti si ricollegano principalmente **DOVERI**.

@@ -1,6 +1,6 @@
 # Diffamazione e Social Network
 ## Ingiuria
-![Ingiuria](Ingiuria.md)
+![[Ingiuria]]
 
 Elementi: 
 - chiunque offende l'**onore** o il **decoro** di una **persona presente** 
