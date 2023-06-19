@@ -5,4 +5,3 @@ Questa repo è pensata per essere letta tramite [Obsidian](https://obsidian.md/)
 Potrei lavorare per renderla più compatibile con il visualizzatore markdown di gitHub.
 # Da dove iniziare
 Per iniziare, aprire l'[indice](./Indice.md) e selezionare la lezione di interesse
-
