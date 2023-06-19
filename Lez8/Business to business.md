@@ -1,1 +1,1 @@
-Norme [[derogabili]]
+Norme [derogabili](derogabili.md)

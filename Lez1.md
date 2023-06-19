@@ -1,6 +1,6 @@
 # Normativa
-Il [[Regolamento (UE) 2016.679]] e' in vigore dal 25 maggio 2018 e va a ritrattare il [[D.Lgs. 196.2003]] tramite [[abrogazione selettiva]].
-Dalla precedente [[Direttiva 2002.58]] si passa alla nuova [[Direttiva 2018.1972]] - [[D.Lgs. 207.2021]]
+Il [Regolamento (UE) 2016.679](Regolamento%20(UE)%202016.679) e' in vigore dal 25 maggio 2018 e va a ritrattare il [D.Lgs. 196.2003](D.Lgs.%20196.2003) tramite [abrogazione selettiva](abrogazione%20selettiva.md).
+Dalla precedente [Direttiva 2002.58](Direttiva%202002.58.md) si passa alla nuova [Direttiva 2018.1972](Direttiva%202018.1972.md) - [D.Lgs. 207.2021](D.Lgs.%20207.2021)
 I Provvedimenti Garante Privacy e gli Accordi Internazionali su trasferimento dati NON decadono fino a quando non verranno modificati, sostituiti o abrogati.
 
 # L'approccio innovativo basato sull'accountability del Titolare (art 24 GDPR)
@@ -11,7 +11,7 @@ Ciò implica l'adozione di un **_Sistema di gestione della Data Protection_ che 
 ## Principali novità del regolamento
 - le definizioni ed i principi generali previsti dal Codice Privacy restano sostanzialmente invariati, ma **cambia la filosofia**
 - **Nuovo approccio metodologico** risk-based, basato sulla **protezione dei dati dell'utente** e sull'**effettivo rischio** per ogni azienda
-- Da un sistema di tipo formalistico ad un sistema di governance dei dati personali basato su un'alta _responsabilizzazione sostanziale_ (\<\<**accountability**>>)  del Titolare, a cui e' richiesto [[proattività]] nonché di **dimostrare**, tramite l'elaborazione di un **idoneo sistema documentale** di gestione della privacy e di appropriate policies interne, **da esibire** in caso di richiesta da parte dell'Autorità, la conformità al GDPR e **l'adeguatezza delle proprie scelte/valutazioni**.
+- Da un sistema di tipo formalistico ad un sistema di governance dei dati personali basato su un'alta _responsabilizzazione sostanziale_ (\<\<**accountability**>>)  del Titolare, a cui e' richiesto [proattività](proattivit%C3%A0.md) nonché di **dimostrare**, tramite l'elaborazione di un **idoneo sistema documentale** di gestione della privacy e di appropriate policies interne, **da esibire** in caso di richiesta da parte dell'Autorità, la conformità al GDPR e **l'adeguatezza delle proprie scelte/valutazioni**.
 
 ## Protezione sin dalla progettazione (_by design e by default_)
 
@@ -26,19 +26,19 @@ Il titolare del trattamento deve mettere in atto misure tecniche e organizzative
 
 # Applicabilità GDPR alle sole [persone fisiche](persona%20fisica.md fisica>), Definizione Trattamento e dato personale
 
-![[dato personale]]
-![[trattamento]]
+![dato personale](dato%20personale.md)
+![trattamento](trattamento.md)
  
 ## Trattamento di categorie particolari di dati personali
-![[ex dati sensibili]]
-![[ex dati giudiziari]]
+![ex dati sensibili](ex%20dati%20sensibili.md)
+![ex dati giudiziari](ex%20dati%20giudiziari.md)
 
 ### Persone decedute e nascituri
 1. **Persone decedute**: il GDPR **esclude** dal proprio ambito di applicazione i "**dati personali delle persone decedute**". Tuttavia, il GDPR continua ad applicarsi nel caso in cui:
 	-  **non si possa accertare** la morte della persona;
 	- Il dato del defunto è **indirettamente riferibile anche a una persona in vita** (e. il dato sanitario di una malattia genetiche del defunto che potrebbe rivelare la medesima patologia nel figlio);
 
-	Inoltre, anche a seguito del decesso della persona, **l'art 2-terdecies del Codice Privacy ([[D.Lgs. 196.2003]] e successive modifiche)** attribuisce **agli eredi o altri soggetti legati al defunto la facoltà di esercitare i diritti di cui agli artt. 15-22 GDPR** con riferimento ai dati del defunto nel caso in cui abbiano un interesse **proprio o agiscano a tutela dell'interessato** (a meno che lo stesso **interessato non avesse vietato tale esercizio quando ancora in vita**).
+	Inoltre, anche a seguito del decesso della persona, **l'art 2-terdecies del Codice Privacy ([D.Lgs. 196.2003](D.Lgs.%20196.2003) e successive modifiche)** attribuisce **agli eredi o altri soggetti legati al defunto la facoltà di esercitare i diritti di cui agli artt. 15-22 GDPR** con riferimento ai dati del defunto nel caso in cui abbiano un interesse **proprio o agiscano a tutela dell'interessato** (a meno che lo stesso **interessato non avesse vietato tale esercizio quando ancora in vita**).
 
 	In  ogni caso, anche in assenza della copertura fornita dalla normativa sul trattamento dei dati personali, le informazioni potrebbero essere soggette a un **diverso regime di protezione derivante alla luce di altra normativa nazionale (es. obblighi di confidenzialità del medico)**.
 
@@ -60,4 +60,4 @@ Le informazioni sulla esatta localizzazione di un individuo giocano un ruolo est
 
 I **dati sulla posizione geografica di un individuo sono sempre dati personali? No, non necessariamente**. Un'attenta valutazione deve essere fatta caso e per caso e molto dipende dal contesto.
 
-- [[esempi Location Data]]
+- [esempi Location Data](esempi%20Location%20Data.md)

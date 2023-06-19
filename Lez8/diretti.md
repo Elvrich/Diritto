@@ -1,1 +1,1 @@
-[[Conclusi]] ed [[eseguiti]] "on-line"
+[Conclusi](Conclusi.md) ed [eseguiti](eseguiti) "on-line"

@@ -4,9 +4,9 @@ I diritti di proprietà intellettuale si distinguono in due macrocategorie dei d
 Questi diritti hanno in comune l'essere fritto dell'ingegno e l'essere espressione di innovazione.
 
 ## Le opere dell'ingegno sono classificabili in tre macro categorie
-- [[opere dell'ingegno]] creativo che fanno riferimento al mondo dell'arte e della cultura;
-- [[segni distintivi]] quali marchio, ditta, insegna, indicazione geografica, denominazione d'origine
-- [[innovazioni tecniche e di design]] che hanno per oggetto invenzioni, modelli di utilita', disegni e modelli industriali, topografie dei prodotti a semiconduttori, nuove varieta' vegetali.
+- [opere dell'ingegno](opere%20dell'ingegno) creativo che fanno riferimento al mondo dell'arte e della cultura;
+- [segni distintivi](segni%20distintivi) quali marchio, ditta, insegna, indicazione geografica, denominazione d'origine
+- [innovazioni tecniche e di design](innovazioni%20tecniche%20e%20di%20design) che hanno per oggetto invenzioni, modelli di utilita', disegni e modelli industriali, topografie dei prodotti a semiconduttori, nuove varieta' vegetali.
 I segni distintivi,  le innovazioni tecniche e di design sono diritti di proprietà industriale e si acquistano mediante brevettazione, registrazione o negli altri modi previsti dal Codice di proprietà industriale.
 I segni distintivi diversi dal marchio registrato, i segreti commerciali, le indicazioni geografiche e le denominazioni di origine sono invece protetti quando ricorrono i presupposti di legge.
 
@@ -14,7 +14,7 @@ Ulteriore distinzione tra:
 - **diritti titolati**, ossia originati dalla brevettazione o registrazione;
 - **diritti non titolati**, che sorgono in presenza di determinati presupposti.
 ## Brevetto di invenzione
-![[Art 45 c.p.i.]]
+![Art 45 c.p.i.](Art%2045%20c.p.i..md)
 
 ### Non sono invenzioni:
 1. Le scoperte, le teorie scientifiche e i metodi matematici
@@ -56,7 +56,7 @@ Il marchio e' un segno distintivo che consente di:
 - **Riconoscerne** a provenienza
 - **Associare** un prodotto e/o un servizio alla storia, al prestigio, alla qualità di un'azienda
 
-![[Art 7 c.p.i.]]
+![Art 7 c.p.i.](Art%207%20c.p.i..md)
 
 ### Cosa contraddistingue un marchio?
 Il marchio è un segno utilizzato in ambito commerciale per distinguere i prodotti o servizi di un'impresa da quelli di altre imprese

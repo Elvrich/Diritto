@@ -1,11 +1,11 @@
 # Contratti Telematici
 ## Contratto
-![[Art. 1321 c.c.]]
+![Art. 1321 c.c.](Art.%201321%20c.c..md)
 ## Requisiti del contratto
 - Accordo delle parti
 - Causa
 - Oggetto
-- Forma (quando richiesta ad [[substatiam]])
+- Forma (quando richiesta ad [substatiam](substatiam))
 
 ### Accordo delle parti
 Si ha un accordo quando due o più persone manifestano reciprocamente le proprie volontà, e queste sono dirette allo stesso scopo.
@@ -19,47 +19,47 @@ La causa e' il riferimento  alla funzione economica (in senso ampio) che le part
 
 La causa e' illecita quando e' contraria a norme imperative (illegale), all'ordine pubblico o al buon costume (immorale).
 
-Le obbligazioni naturali ([[art. 2034 c.c.]]), sono quelle obbligazioni che trovano fonte nei doveri morali e sociali che, pur non essendo giuridici, quindi non coercibili, non sono indifferenti per l'ordinamento
+Le obbligazioni naturali ([art. 2034 c.c.](art.%202034%20c.c.)), sono quelle obbligazioni che trovano fonte nei doveri morali e sociali che, pur non essendo giuridici, quindi non coercibili, non sono indifferenti per l'ordinamento
 
 ### Oggetto
-Dall'[[art. 1346 c.c.]] L'oggetto del contratto deve essere:
+Dall'[art. 1346 c.c.](art.%201346%20c.c.) L'oggetto del contratto deve essere:
 - possibile,
 - lecito,
 - determinato o determinabile.
 
 ### Forma
-(quando richiesta ad [[substantiam]])
+(quando richiesta ad [substantiam](substantiam))
 - forma espressa / tacita
 - forma scritta / orale
-- contratti formali (Atto pubblico e scrittura privata - [[art. 1350 c.c.]])
-- forma ad [[substantiam]] / forma ad [[probationem]]
+- contratti formali (Atto pubblico e scrittura privata - [art. 1350 c.c.](art.%201350%20c.c.))
+- forma ad [substantiam](substantiam) / forma ad [probationem](probationem.md)
 
-![[Contratti Telematici]]
+![Contratti Telematici](Contratti%20Telematici.md)
 
 ### Tipologie di contratti telematici
-1. [[diretti]] e [[indiretti]]
-2. Siti [[internet]] ed [[E-mali]]
-3. [[Business to business]] e [[business to consumer]]
-	1. def. [[Professionista]]
-	2. def. [[consumatore]]
+1. [diretti](diretti.md) e [indiretti](indiretti.md)
+2. Siti [internet](internet.md) ed [E-mali](E-mali.md)
+3. [Business to business](Business%20to%20business.md) e [business to consumer](business%20to%20consumer.md)
+	1. def. [Professionista](Professionista.md)
+	2. def. [consumatore](consumatore.md)
 
 ### Diritto di recesso
-Il codice civile prevede la regola generale, secondo cui un contratto una volta stipulata non possa essere sciolto, se non per mutuo connesso o per cause ammesse della legge [[art. 1372 c.c. primo comma]] 
+Il codice civile prevede la regola generale, secondo cui un contratto una volta stipulata non possa essere sciolto, se non per mutuo connesso o per cause ammesse della legge [art. 1372 c.c. primo comma](art.%201372%20c.c.%20primo%20comma) 
 Una delle cause ammesse dalla legge per potersi liberare dell'obbligazione contrattuale e' il caso del recesso unilaterale, ossia il caso in cui una parte può esercitare la facoltà di recedere dal contratto a determinate condizioni:
 - se questa facoltà e' prevista nel contratto
 	e
 - finché il contratto non abbia avuto un principio di esecuzione.
 
-Il Codice del Consumo ([[D.Lsg. 206 del 2005]]) ha introdotto un correttivo a questa regola generale, laddove il contratto sia stato stipulato
+Il Codice del Consumo ([D.Lsg. 206 del 2005](D.Lsg.%20206%20del%202005)) ha introdotto un correttivo a questa regola generale, laddove il contratto sia stato stipulato
 - Da consumatore 
 	e
 - a distanza o negoziato fuori dei locali commerciali.
 
-In presenza di tali circostanze, l[['art. 52 Cod. Consumo]] consente il consumatore di potersi liberare dall'obbligo contrattuale e quindi di esercitare il diritto di recesso senza dover fornire alcuna motivazione e senza dover sostenere costi diversi da quelli previsti all'[[articolo 56, comma 2]] e all'[[articolo 57]].
+In presenza di tali circostanze, l['art. 52 Cod. Consumo]('art.%2052%20Cod.%20Consumo) consente il consumatore di potersi liberare dall'obbligo contrattuale e quindi di esercitare il diritto di recesso senza dover fornire alcuna motivazione e senza dover sostenere costi diversi da quelli previsti all'[articolo 56, comma 2](articolo%2056,%20comma%202.md) e all'[articolo 57](articolo%2057.md).
 **Il termine per l'esercizio del diritto di recesso e' di 14 giorni**, salvo che le parti non abbiano concordato un termine più lungo.
 
 #### Eccezioni
-![[art. 59 del D.lgs. 205.2006]]
+![art. 59 del D.lgs. 205.2006](art.%2059%20del%20D.lgs.%20205.2006.md)
 
 Costituiscono eccezioni al diritto di recesso:
 1. I **contratti di servizi** dopo **la completa prestazione del servizio se l'esecuzione e' iniziata con l'accordo espresso del consumatore** e con **l'accettazione della perdita del diritto di recesso a seguito della piena esecuzione del contratto da parte del professionista**;
@@ -89,7 +89,7 @@ Il compratore ha l'onere di denunciare al venditore i vizi del bene stesso **ent
 
 Alla garanzia generale prevista dal codice civile, si affiancano le tutele previste dal codice del consumo quando il venditore e' un professionista e il compratore e' un consumatore
 
-gli [[artt. 130]] e seguenti del codice suddetto prevedono che il venditore e' responsabile nei confronti del consumatore per qualsiasi difetto di conformità esistente al momento della consegna del bene.
+gli [artt. 130](artt.%20130) e seguenti del codice suddetto prevedono che il venditore e' responsabile nei confronti del consumatore per qualsiasi difetto di conformità esistente al momento della consegna del bene.
 Il consumatore ha l'onere di denunciare al venditore i vizi del bene stesso **entro due mesi** dalla loro scoperta e l'azione diretta si prescrive nel termine di ventisei mesi dalla consegna del bene.
 
 ## Clausole Vessatorie
@@ -99,26 +99,26 @@ Il consumatore ha l'onere di denunciare al venditore i vizi del bene stesso **en
 
 Sono clausole inserite all'interno di un regolamento contrattuale, che per il loro contenuto comportano uno squilibrio di diritti e obblighi a danno di una parte e a favore di un'altra.
 La disciplina applicabile varia a seconda della natura dei contraenti:
-1. nel c.c. ([[artt. 1341 e 1342 c.c.]]): si applica nel caso di contratti conlcusi tra professionisti o imprenditori (B2B, ossia _Business to business_) o tra consumatori (C2C ossia _consumer to consumer_);
-2. nel Cod. Consumo ([[artt 33 s.s. d. lgs. 205.2006]]): si applica nel caso in cui uno dei contraenti sia un consumatore e l'altro un professinoista o imprenditore (B2C ossia _business to consumer_).
+1. nel c.c. ([artt. 1341 e 1342 c.c.](artt.%201341%20e%201342%20c.c.)): si applica nel caso di contratti conlcusi tra professionisti o imprenditori (B2B, ossia _Business to business_) o tra consumatori (C2C ossia _consumer to consumer_);
+2. nel Cod. Consumo ([artt 33 s.s. d. lgs. 205.2006](artt%2033%20s.s.%20d.%20lgs.%20205.2006)): si applica nel caso in cui uno dei contraenti sia un consumatore e l'altro un professinoista o imprenditore (B2C ossia _business to consumer_).
 
 ### Clausole vessatorie nel codice del consumo
-Il Cod. Consumo considera sempre nullle - anche se di specifica trattativa - le clausole che abbiano per oggetto o effetto ([[art. 36. c. 2 Cod. Cons.]]):
+Il Cod. Consumo considera sempre nullle - anche se di specifica trattativa - le clausole che abbiano per oggetto o effetto ([art. 36. c. 2 Cod. Cons.](art.%2036.%20c.%202%20Cod.%20Cons.)):
 - escludere o limitare la responsabilita' del professionista in caso di morte o danno alla persona del consumatore, risultante da un fatto o da un'omissione del professionista;
 - escludere o limitare le azioni del consumatere nei confronti del professionista o di un'altra parte in caso di inadenpimento totale o parziale o di adempimento inesatto da parte del professionista;
 - prevedere l'adesione del consumatore come estesa a clausole che non ha avuto, di fatto, la possibilita' di conoscere prima della conclusione del contratto.
-L'elenco di cui all'[[art. 33. COd. Cons]] **non e' tassativo**
+L'elenco di cui all'[art. 33. COd. Cons](art.%2033.%20COd.%20Cons) **non e' tassativo**
 
 ## Modalita' di conclusione del Contratto
 ### Accordo delle parti: FORMAZIONE DEL CONTRATTO
-![[Art. 13.1. D.Lgs. e-commerce]]
+![Art. 13.1. D.Lgs. e-commerce](Art.%2013.1.%20D.Lgs.%20e-commerce.md)
 Schemi:
-1. [[Scambio di proposta ed accettazione]]
-![[Esempio E-Mail]]
+1. [Scambio di proposta ed accettazione](Scambio%20di%20proposta%20ed%20accettazione.md)
+![Esempio E-Mail](Esempio%20E-Mail.md)
 
-2. [[Offerta al pubblico (SITO INTERNET) art 1336 c.c.]]
-![[Esempio Sito Internet]]
-3. [[Comportamento concludente art 1327 c.c.]]
+2. [Offerta al pubblico (SITO INTERNET) art 1336 c.c.](Offerta%20al%20pubblico%20(SITO%20INTERNET)%20art%201336%20c.c..md)
+![Esempio Sito Internet](Esempio%20Sito%20Internet.md)
+3. [Comportamento concludente art 1327 c.c.](Comportamento%20concludente%20art%201327%20c.c..md)
 ### Trasmissione del documento informatico e concetto di Spedizione e Consegna
 Il documento informatico trasmesso per via telematica **si intende spedito** dal mittente **se inviato al proprio gestore**, **e si intende consegnato** al destinatario **se reso disponibile** all'indirizzo elettronico da questi dichiarato, nella casella di posta elettronica del destinatario messa a disposizione dal gestore. 
 #### Electronic agents
@@ -133,9 +133,9 @@ Quando il computer "partecipa" alla trattariva operando scelte non predeterminat
 > \- Prof. Sacchetti
 
 ## Digital Merkets Act (DMA)
-<< relativo a un mercato unico dei servizi digitali (legge sui servizi digitali) e che modifica la [[direttiva 2000.31.CE]] >>
-![[direttiva 2000.31.CE]]
-![[D.Lgs. n. 70 del 9]]
+<< relativo a un mercato unico dei servizi digitali (legge sui servizi digitali) e che modifica la [direttiva 2000.31.CE](direttiva%202000.31.CE.md) >>
+![direttiva 2000.31.CE](direttiva%202000.31.CE.md)
+![D.Lgs. n. 70 del 9](D.Lgs.%20n.%2070%20del%209.md)
 
 ### Regolamento UE
 >Il DMA è stato pubblicato nella Gazzetta ufficiale dell'Unione europea:

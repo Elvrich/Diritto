@@ -1,4 +1,4 @@
 possono essere modificate in futuro
 
 ---
-Vedi anche: [[inderogabili]]
+Vedi anche: [inderogabili](inderogabili.md)

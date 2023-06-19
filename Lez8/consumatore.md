@@ -1,4 +1,4 @@
 chi agisce per scopi estranei all'attivita' iprenditoriale o professionale
 
 --- 
-vedi anche [[Professionista]]
+vedi anche [Professionista](Professionista.md)

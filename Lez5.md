@@ -3,17 +3,17 @@
 ...
 
 ## Tipi di documenti
-### [[Doc. elettronici]]
-### [[Doc. informatico]]
-### [[Doc. analogico]]
+### [Doc. elettronici](Doc.%20elettronici.md)
+### [Doc. informatico](Doc.%20informatico.md)
+### [Doc. analogico](Doc.%20analogico.md)
 
 ## Firme elettroniche
 ### Tipi di firme
 - [Firma elettronica](Firma%20elettronica%20semplice.md elettronica semplice>) (c.d. semplice)
-- [[Firma elettronica Avanzata]]
+- [Firma elettronica Avanzata](Firma%20elettronica%20Avanzata.md)
 	ad esempio un tipo di firma...
-- [[Firma elettronica Qualificata]]
-- [[Firma digitale]]
+- [Firma elettronica Qualificata](Firma%20elettronica%20Qualificata.md)
+- [Firma digitale](Firma%20digitale.md)
 	**Crittografia a chiavi asimmetriche**:
 
 ### Come funziona la firma digitale (CADES)
