@@ -1,0 +1,5 @@
+[Cassazione n. 48895.2018]
+Il dipendente di un'azienda, all'atto delle sue dimissioni, aveva copiato su alcuni supporti informatici i dati ingegneristici e di progettazione appartenenti all'ex datore di lavoro e ciò al fine di avvantaggiare una diretta concorrente, oltre alla materiale sottrazione di tali informazioni l'imputato aveva anche cancellato i dati dal database aziendale
+- Il reato di accesso abusivo a sistema informatico, di cui all'[[art. 615 ter cp]], si **configura in capo al soggetto che, violando le _prescrizioni impartite dal titolare_ disciplinanti le modalità di accesso o impiego, _acceda o si mantenga illegittimamente in un database o in un software gestionale_**.
+
+In ambito lavorativo e aziendale, tali parametri si riferiscono ai **limiti dell'autorizzazione di accesso ricavabili dalle competenze e funzioni del dipendente**, così da rendere penalmente rilevante la condotta di accesso ad un sistema informatico **avvenuta in violazione delle disposizioni o delle mansioni impartite attraverso l'incarico**, anche **ove l'accesso ad alcuni dati sia materialmente impedito da password o aree riservate**.

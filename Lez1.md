@@ -61,3 +61,6 @@ Le informazioni sulla esatta localizzazione di un individuo giocano un ruolo est
 I **dati sulla posizione geografica di un individuo sono sempre dati personali? No, non necessariamente**. Un'attenta valutazione deve essere fatta caso e per caso e molto dipende dal contesto.
 
 - [[esempi Location Data]]
+
+---
+#lez 

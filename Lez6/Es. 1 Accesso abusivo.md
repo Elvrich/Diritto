@@ -1,0 +1,7 @@
+[Cass. SS. UU. n. 17325.2015 - Locus Commissi Delicti]
+Radica la **competenza territoriale nel luogo in cui si trova la postazione remota** (c.d. "client"). La Suprema Corte ha considerato l'intera architettura di sistema (server, terminali e rete di trasporto delle informazioni) come un unico elaboratore elettronico, altrimenti definito "sistema telematico".
+
+La competenza radicata nel luogo in cui si trova il client valorizza **l'unica condotta** materiale qualificabile come "azione informatica" e riconducibile alla volontà del soggetto agente, che consiste nella **digitazione del terminale periferico di "username" e "password", oltre che nella pressione del tasto di invio**.
+La sola condotta criminosa fisicamente percepibile, nel senso di "movimento muscolare" dell'agente, è proprio l'attivazione del terminale periferico da parte dell'operatore, perché l'impulso  )sotto forma di energie o bit parte, non può più essere bloccato, **determina automaticamente il superamento delle barriere informatiche di accesso** e **pone automaticamente il soggetto agente nella condizione di consultare le informazioni contenute nella banca dati**.
+
+In tal senso **_non rileva_** quindi il **_luogo in cui si trova il server_, ma quello _decentrato da cui l'operatore, a mezzo del client_**.

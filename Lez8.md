@@ -132,8 +132,8 @@ Quando il computer "partecipa" alla trattariva operando scelte non predeterminat
 > E' un regolamento, quindi gli stati sono tenuti ad applicarli direttamente, al contrario di una direttiva che va inclusa nella propria legislazione in "modo piu' organico"
 > \- Prof. Sacchetti
 
-## Digital Merkets Act (DMA)
-<< relativo a un mercato unico dei servizi digitali (legge sui servizi digitali) e che modifica la [[direttiva 2000.31.CE]] >>
+## Digital Markets Act (DMA)
+\<<relativo a un mercato unico dei servizi digitali (legge sui servizi digitali) e che modifica la [[direttiva 2000.31.CE]]>>
 ![[direttiva 2000.31.CE]]
 ![[D.Lgs. n. 70 del 9]]
 
@@ -174,7 +174,7 @@ Una volta designati, i "gatekeeper" specifici avranno sei mesi di tempo per iniz
 3. Il paragrafo 1 **non si appliva in relazione alla responsabilita' prevista dalla normativa in materia di protezione dei consumatori per le piattaforme online che consentono ai _consumatori_ di  concludere contratti a distanza con operatori commerciali**, qualora tali piattaforme online **presentino informazioni specifihce o rendano altrimenti possibile l'operazione in qustione in modo tale da indurre un consumatore medio e ragionevolmente infomrato a ritenere** he le informazioni, o il prodotto o il servizio oggetto dell'operazione, **siano forniti dalla piattaforma stessa o da un destinatario del servizio che agisce sotto la sua autoria' o il suo controllo**.
 
 #### Art 6 - Indagini volontarie promosse di propria iniziativa e rispetto delgi obblighi normativi
-1. I prestatori di servizi intermediari **_non_ sono considerati inammissibili all'esenzione della responsabilita'** prevista agli articoli [3](Responsabilita'%20dei%20prestatori%20di%20servizi%20intermediari%20-%20DSA.md#Art%203 DSA#Art 3>), [4](Responsabilita'%20dei%20prestatori%20di%20servizi%20intermediari%20-%20DSA.md#Art%204 DSA#Art 4>) e [5](Responsabilita'%20dei%20prestatori%20di%20servizi%20intermediari%20-%20DSA.md#Art%205 DSA#Art 5>)  **per il solo fatto di svolgere indagini volontarie o altre attivita' di propria iniziativa volte ad individuare, identificare e rimuovere contenuti illegali o a disabilitare l'accesso agli stessi**, o di adottare le misure necessarie per conformarsi alle prescrizioni del diritto dell'Unione, comprese quelle stabilite nel presente regolamento.
+1. I prestatori di servizi intermediari **_non_ sono considerati inammissibili all'esenzione della responsabilità** prevista agli articoli [3](<Lez8#Art 3 - Semplice trasporto ("mere conduit")>), [4](<Lez8#Art 4 - Memorizzazione temporanea ("caching")>) e [5](<Lez8#Art 5 - Hosting>)  **per il solo fatto di svolgere indagini volontarie o altre attivita' di propria iniziativa volte ad individuare, identificare e rimuovere contenuti illegali o a disabilitare l'accesso agli stessi**, o di adottare le misure necessarie per conformarsi alle prescrizioni del diritto dell'Unione, comprese quelle stabilite nel presente regolamento.
 
 ### Obblighi in materia di dovere di diligenza per un ambiente online trasparente e sicuro - DSA
 
@@ -220,3 +220,6 @@ Le condizioni e le presctizioni di cui al presetne articolo nono pregiudicano le
 	Tali ifnormazioni riguardano tra l'altro le **politiche, le procedure, le misure e gli strumenti utilizzati ai fini della moderazione dei contenuti, compresi il processo decisionale algoritmico e la verifica umana**.
 	Sono redatte in un linguaggio chiaro e privo di ambiguita' e sono disponibili al pubblico in un fomrato facilmente accessibile.
 2. I prestatori di servizi intermediari agiscono in modo diligente, obiettivo e proporzionato nell'applicare r far rispettare le restrizioni di cui al paragrafo 1, tenendo debitamente conto dei diritto e degli interessi legittimi di tutte le parti coinvolte, compresi i diritti fondamentali applicevili dei destinateri del servizio sanciti dalla Carta.
+
+---
+#lez 

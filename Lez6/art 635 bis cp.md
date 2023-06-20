@@ -1,0 +1,3 @@
+Si dice danneggiamento informatico:
+>Chiunque **distrugge**, **deteriora** o rende, _**in tutto o in parte, inservibili** sistema informatici altrui_, ovvero **_programmi, informazioni o dati altrui_**, è punito, salvo che il fatto costituisca piu' grave reato, con la reclusione da sei mesi a tre anni.
+>Se ricorre una o più delle circostanze di cui al secondo comma dell'articolo 635, ovvero **_se il fatto è commesso con abuso della qualità di operatore del sistema_**, la pena è della reclusione da uno a quattro anni.

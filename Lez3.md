@@ -38,12 +38,7 @@ Si distingue tra:
 Le norme penali di regola risultano costituite da due elementi:
 ![[Precetto]]
 ![[Sanzione]]
-In alcuni casi il legislatore affida la descrizione del precetto a fonti extrapenali, ossia a norme che provengono da altri reami dell'ordinamento (come quello amministrativo) attraverso il meccanismo della **[[norma penale in bianco]]**.
 
-In altri casi il legislatore **rimanda l'integrazione del precetto ad atti normativi secondari o, addirittura, ad atti non normativi** (come, ad esempio, provvedimenti amministrativi).
-
-D'altronde, la [[norma penale in bianco]] costituisce uno strumento opportuno in settori altamente specializzati e tecnici, in cui l'atto normatico non puo' che contenente un precetto generico su un obbligo di obbedienza, che deve essere completato dalla normativa secondaria, più idonea ad integrare con dati tecnici il [[Precetto]] medesimo
-(si pensi ad esempio al dec. del Ministro della Sanità di aggiornamento delle tablle delle sostanze rientranti ne concetto di "stupefacenti")
 
 ## [[Bene]] giuridico / interesse tutelato
 **Ogni norma penale tutela un determinato [[bene]] o interesse**.
@@ -51,14 +46,14 @@ Pertanto l'[[oggetto giuridico]] del reato è il [[bene]] giuridico o l'interess
 L'individuazione dei beni protetti va fatta tenendo conto dei **principi sanciti dalla Costituzione**.
 
 _L'[[oggetto giuridico]] non va confuso con l'oggetto materiale dell'azione_
-
+Si può presentare la necessità di accertare la natura degli illeciti penali al fine di individuare la disciplina applicabile (ad esempio **la circostanza aggravante di cui all'art.62n.7, relativa al danno di particolare gravità**, riguardante per la espressa previsione normativa i soli delitti contro il patrimonio).
 L'individuazione dell'oggetto giuridico tutelato diviene indispensabile specie a fronte di reati che il legislatore non inserisce in una particolare categoria (si pensi **ai reati previsti dalle leggi speciali**)
 
-~~In sede di giudizio~~, si puo' presentare la necessita' di accertare la natura degli illeciti penali al fine di individuare la scirplina applicabile.
-m
+~~In sede di giudizio~~, si può presentare la necessità di accertare la natura degli illeciti penali al fine di individuare la disciplina applicabile.
+
 # Il Reato
 
-È un unicum che tuttavia si compone di scariati elementi che debbono tutti essere presenti per poter ritenere realizzata la fattiscpecie criminale prevista dalla legge:
+È un unicum che tuttavia si compone di svariati elementi che debbono tutti essere presenti per poter ritenere realizzata la fattispecie criminale prevista dalla legge:
 
 ## Condotta
 - Elemento essenziale e fondamentale:
@@ -69,19 +64,19 @@ m
 ### L'evento
 È il **risultato** dell'[[azione]] o dell'[[omissione]] e deve a queste essere legato da nesso causale
 
-Non tutte le fattispecie di reato prevedono l'esistenza di un evento, tanto che accanto ai reati di evento (Es omicidio) vi sono i **==[[reati di pura condotta]]==** (esempio evasione - accesso abusivo al sistema informatico)
+Non tutte le fattispecie di reato prevedono l'esistenza di un evento, tanto che accanto ai reati di evento (Es omicidio) vi sono i **_[[reati di pura condotta]]_** (esempio evasione - accesso abusivo al sistema informatico)
 
 L'evento è non solo **materialmente** ma talvolta anche cronologicamente distinto dalla condotta
 
 - Si parla di **reati ad evento differito** quando l'evento segue a distanza di tempo la condotta (es morte nell'omicidio) e
 - di **reati a distanza** quando l'evento si verifica in luogo diverso da quello in cui si è svolta la condotta (es minaccia via internet; lesioni provocate da pacco esplosivo recapitato).
 
-Infine l'evento può essere **di danno** o **di pericolo** a seconda che leda o metta soltanto in pericolo il [[bene]] protetto dalla norma
+Infine l'evento può essere **DI DANNO** o **DI PERICOLO** a seconda che leda o metta soltanto in pericolo il [[bene]] protetto dalla norma
 
 ## Rapporto di causalità
 - Per poter attribuire all'agente un fatto penalmente illecito e' necessario che condotta ed evento siano tra loro legati da [[nesso causale]]
-- L'art. 40 CP a questo proposito usa il termine ==conseguenza==
-- Ancor prima, l'art 27 Cost. col termine ==personale== ha voluto escludere la responsabilità penale **per fatto altrui**.
+- L'art. 40 CP a questo proposito usa il termine conseguenza
+- Ancor prima, l'art 27 Cost. col termine personale ha voluto escludere la responsabilità penale **per fatto altrui**.
 ### [[caso fortuito]] e [[forza maggiore]]
 - Art 45 CP parla di non punibilità per il caso in cui il fatto sia stato commesso per caso fortuito o forza maggiore
 - si tratta di fattori che escludono il rapporto di causalità tra condotta ed evento
@@ -108,24 +103,24 @@ e' strutturata su 3 capisaldi fondamentali:
 >[[Art. 43 CP]]: definizione del dolo
 
 #### La colpa
-- Forma di colpevolezza Storicamente piu' recente
+- Forma di colpevolezza Storicamente più recente
 - e' meno grave del dolo
 - e' eccezionale e minoritaria
-- e' sussidiaria: non e' pensabile responsabitila' colposa senza previsione di responsabilita' dolosa per lo stesso fatto (es. omicidio)
+- e' sussidiaria: non e' pensabile responsabilità colposa senza previsione di responsabilità dolosa per lo stesso fatto (es. omicidio)
 > Il Magistrato fa notare che non esiste nessuna norma che punisce il furto colposo
 
 Quindi rimprovero per aver realizzato, seppur involontariamente, tramite la violazione di regole cautelari di condotta, un fatto-reato che avrebbe potuto essere evitato mediante l'osservanza esigibile di detta regola
 
 ##### Elementi costitutivi della colpa
-1. mancanza della volonta' del fatto tipiuco
+1. mancanza della volontà del fatto tipico
 2. inosservanza della regola di condotta
-3. attribuibilita' dell'inosservanza all'agente (in quanto dal medesimo sia esigibile il rispetto...)
+3. attribuibilità dell'inosservanza all'agente (in quanto dal medesimo sia esigibile il rispetto...)
 
 ##### la preterintenzione
-La definizione e' contetuta nell'art. 43 CP
-Vi e' la volonta' di una evento minore e la non volonta' di un evento piu' grave
+La definizione è contenuta nell'art. 43 CP
+Vi è la volontà di una evento minore e la non volontà di un evento più grave
 - Due ipotesi: omicidio ed aborto preterintenzionale.
-- Secondo la dottrina piu' accreditata si tratterebbe di un dolo misto a colpa, interpretazione che renderebbe la preterintenzione non in contrasto col dettato dell'art. 27 Cost.
+- Secondo la dottrina più accreditata si tratterebbe di un dolo misto a colpa, interpretazione che renderebbe la preterintenzione non in contrasto col dettato dell'art. 27 Cost.
 
 ---
 #lez

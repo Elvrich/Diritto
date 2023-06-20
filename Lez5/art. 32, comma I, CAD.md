@@ -1,0 +1,1 @@
+Il titolare del certificato di firma è **_tenuto ad assicurare la custodia del dispositivo di firma_** o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma da remoto, e ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno ad altri; è altresì **_tenuto ad utilizzare personalmente il dispositivo di firma_**.

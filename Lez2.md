@@ -108,3 +108,6 @@ Quando la violazione è suscettibile di presentare un rischio elevato per i diri
 1. ha messo in atto misure tecniche e organizzative adeguate di protezione e tali misure erano state applicate ai dati personali oggetto  della violazione, in particolare quelle destinate a rendere i dati personali incomprensibili a chiunque non sia autorizzato ad accedervi, quali la cifratura;
 2. ha successivamente adottato misure atte a scongiurare il sopraggiungere di un rischio elevato per i diritti e le liberà degli interessati;
 3. detta comunicazione richiederebbe sforzi sproporzionati.
+
+---
+#lez 

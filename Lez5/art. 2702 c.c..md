@@ -1,0 +1,2 @@
+# riguardo all'Efficacia della scrittura privata
+La scrittura privata fa piena prova, fino a querela di falso, della **provenienza delle dichiarazioni da chi l'ha sottoscritta**, se colui il quale la scrittura è prodotta **ne _riconosce_ la sottoscrizione**, ovvero se questa è **legalmente considerata come riconosciuta**.

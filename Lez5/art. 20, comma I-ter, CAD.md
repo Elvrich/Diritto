@@ -1,0 +1,1 @@
+L'utilizzo del dispositivo di _firma elettronica qualificata o digitale_ si presume riconducibile al titolare, salvo che questi dia prova contraria
