@@ -1,0 +1,1 @@
+Hanno per oggetto invenzioni, modelli di utilita', disegni e modelli industriali, topografie dei prodotti a semiconduttori, nuove varieta' vegetali.

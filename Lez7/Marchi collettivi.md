@@ -1,0 +1,1 @@
+Distinguono i prodotti e i servizi di un gruppo di aziende o dei membri di un'associazione  da quelli della concorrenza. I marchi collettivi possono essere utilizzati per creare fiducia tra i consumatori nei confronti dei prodotti o servizi offerti con il marchio collettivo. Molto spesso sono utilizzati per identificare prodotti che hanno in comune una determinata caratteristica.

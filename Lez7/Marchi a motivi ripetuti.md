@@ -1,0 +1,1 @@
+Costituiti esclusivamente da un insieme di elementi che si ripetono regolarmente.

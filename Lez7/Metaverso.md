@@ -1,0 +1,5 @@
+Termine coniato da Neal Stephenson e utilizzato per la prima volta nel suo libro "Snow crash" nel '92. oggi è utilizzato per individuare un universo parallelo formato da piattaforme online nelle quali l'utente, attraverso un proprio alter-ego virtuale (avatar), può frequentare spazi e fare esperienze più o meno realistiche e personalizzate, grazie anche all'uso di tecnologie di realtà virtuale e realtà aumentata.
+
+Il Metaverso è spesso descritto come un mondo parallelo virtuale ma **immersivo**, caratterizzato dalla crescente permeabilità dei confini dei diversi ambienti digitali con mondo fisico.
+
+Il contenuto digitale è combinato con il mondo reale: l'utente potrà muoversi all'à'interno del metaverso attraverso il suo avatar estremamente realistico e totalmente personalizzabile. Potrà creare la propria abitazione, arredarla, scegliere (ed acquistare) abbigliamento ed accessori virtuali per personalizzare l'avatar, praticare sport e altre attività virtuali, condividendo spazi ed esperienze con altri utenti.

@@ -1,0 +1,1 @@
+Costituiti esclusivamente da una combinazione di colori (senza contorni)

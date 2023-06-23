@@ -1,0 +1,1 @@
+Opere che fanno riferimento al mondo dell'arte e della cultura

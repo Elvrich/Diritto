@@ -4,7 +4,7 @@ Dalla precedente [[Direttiva 2002.58]] si passa alla nuova [[Direttiva 2018.1972
 I Provvedimenti Garante Privacy e gli Accordi Internazionali su trasferimento dati NON decadono fino a quando non verranno modificati, sostituiti o abrogati.
 
 # L'approccio innovativo basato sull'accountability del Titolare (art 24 GDPR)
-Il **_titolare_** e' responsabile per la _compliance_ ai principi privacy e deve essere in grado di **dimostrarla** (art 5, co.2). Per poter garantire la protezione dei dati deve tenere conto di **natura**, **ambito**, **contesto**, **finalità'** e **rischi** e mettere in atto **misure _tecniche_ ed organizzative adeguate** per garantire, ed **essere in grado di dimostrare**, che il trattamento e' effettuato conformemente al GDPR. Dette misure sono riesaminate ed aggiornate qualora necessario.
+Il **_[titolare](<Titolare del trattamento>)_** e' responsabile per la _compliance_ ai principi privacy e deve essere in grado di **dimostrarla** (art 5, co.2). Per poter garantire la protezione dei dati deve tenere conto di **natura**, **ambito**, **contesto**, **finalità'** e **rischi** e mettere in atto **misure _tecniche_ ed organizzative adeguate** per garantire, ed **essere in grado di dimostrare**, che il trattamento e' effettuato conformemente al GDPR. Dette misure sono riesaminate ed aggiornate qualora necessario.
 
 Ciò implica l'adozione di un **_Sistema di gestione della Data Protection_ che consenta di gestire nel tempo** la _compliance_.
 
@@ -24,7 +24,7 @@ Il titolare del trattamento deve mettere in atto misure tecniche e organizzative
 - Lettere Incarico / Nomina Responsabile / ...
 - Policy Organizzativa e Misure (Tecniche) di Sicurezza
 
-# Applicabilità GDPR alle sole [persone fisiche](persona%20fisica.md fisica>), Definizione Trattamento e dato personale
+# Applicabilità GDPR alle sole [persone fisiche](<persona%20fisica>), Definizione Trattamento e dato personale
 
 ![[dato personale]]
 ![[trattamento]]
@@ -45,9 +45,9 @@ Il titolare del trattamento deve mettere in atto misure tecniche e organizzative
 2. **Nascituri**: Né il GDPR, né il Codice Privacy prevedono nulla espressamente. Tuttavia, alla luce degli interventi giurisprudeziali sulla **soggettività giuridica del nascituro** e sulla **sua titolarità di specifici diritti**, nel nostro Paese non sarebbe ingiustificata **un'estensione della tutela in materia di protezione dei dati personali anche nei confronti del concepito**.
 
 ### L'indirizzo IP è un dato personale?
-Nonostante l'indirizzo IP non contenga di per sé ulteriori informazioni, può essere utilizzato per elaborare o dedurre ulteriori informazioni sul proprio utente. Proprio per tale motivo, l'indirizzo IP ha sempre rappresentato un **tema abbastanza controverso dal punto di vista della privacy**, specialmente se teniamo in considerazione la possibilità che l'IP sia di tipo dinamico )ovvero un indirizzo che cambia ogniqualvolta un utente si connetta ad una determinata rete).
+Nonostante l'indirizzo IP non contenga di per sé ulteriori informazioni, può essere utilizzato per elaborare o dedurre ulteriori informazioni sul proprio utente. Proprio per tale motivo, l'indirizzo IP ha sempre rappresentato un **tema abbastanza controverso dal punto di vista della privacy**, specialmente se teniamo in considerazione la possibilità che l'IP sia di tipo dinamico) ovvero un indirizzo che cambia ogniqualvolta un utente si connetta ad una determinata rete).
 
-Il GDPR ha definitivamente sciolto ogni dubbio, affermando che **l'indirizzo IP debba essere considerato come un dato personale in quanto ricadrebbe nell'ambito degli identificativi online** come peraltro i cookies.
+Il GDPR ha definitivamente sciolto ogni dubbio, affermando che **l'indirizzo IP debba essere considerato come un dato personale in quanto ricadrebbe nell'ambito degli identificativi online**; _come peraltro i cookies_.
 
 La ratio di tale scelta è piuttosto evidente: gli indirizzi sono assegnati. Il gestore di una pagina internet registra gli indirizzi IP che accedono ad una determinata pagina. **Se le due informazioni venissero combinate potrebbero permetter e l'identificazione di un utente associato ad un determinato indirizzo IP**.
 

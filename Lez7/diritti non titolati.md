@@ -1,0 +1,1 @@
+Diritti che sorgono in presenza di determinati presupposti

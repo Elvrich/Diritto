@@ -1,0 +1,1 @@
+Caso di divulgazione o accesso non autorizzato o accidentale a [dati personali](<dato personale>)

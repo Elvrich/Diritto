@@ -1,0 +1,1 @@
+Caso di cancellazione / distruzione non autorizzata o accidentale di [dati personali](<dato personale>)

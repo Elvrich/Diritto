@@ -1,0 +1,1 @@
+Un marchio di colore unico è semplicemente un marchio costituito esclusivamente da un unico colore (senza contorni)

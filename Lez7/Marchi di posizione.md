@@ -1,0 +1,1 @@
+Un marchio di posizione è costituito dalla modalità specifica di posizionamento o apposizione dello stesso sul prodotto.

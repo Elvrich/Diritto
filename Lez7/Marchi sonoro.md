@@ -1,0 +1,1 @@
+Costituiti esclusivamente da un suono o da una combinazione di suoni.

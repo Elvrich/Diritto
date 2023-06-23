@@ -1,0 +1,1 @@
+Distinguono i prodotti e i servizi di una particolare azienda da quelli in un'altra.

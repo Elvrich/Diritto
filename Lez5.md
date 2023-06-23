@@ -13,7 +13,7 @@ Base normativa a livello comunitario per i servizi fiduciari degli stati membri,
 
 # Firme elettroniche
 ## Tipi di firme
-- [Firma elettronica](Firma%20elettronica%20semplice.md elettronica semplice>) (c.d. semplice)
+- [Firma elettronica](<Firma elettronica semplice>) (c.d. semplice)
 - [[Firma elettronica Avanzata]]
 - [[Firma elettronica Qualificata]]
 - [[Firma digitale]]

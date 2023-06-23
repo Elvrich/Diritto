@@ -1,0 +1,1 @@
+Costituiti da una forma tridimensionale. Comprende i contenitori, gli imballaggi, il prodotto stesso o il loro aspetto.

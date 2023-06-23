@@ -1,1 +1,1 @@
-È dolo quando l'evento dannoso o pericoloso, che e' risultato di azione o omissione, che e' la causa del ~~danno e' sostenuto dall'intenzione di commetterlo~~
+È dolo quando l'evento dannoso o pericoloso, che è risultato di azione o omissione e che è la causa del danno, è sostenuto dall'intenzione di commetterlo

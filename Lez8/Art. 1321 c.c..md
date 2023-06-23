@@ -1,4 +1,4 @@
->Il contratto e' l'accordo di due o piu' parti per constituire, regolare o estinguere tra loro un rapporto giuridico patrimoniale
+>Il contratto e' l'_accordo_ di due o piu' parti per costituire, regolare o estinguere tra loro un _rapporto giuridico_ patrimoniale.
 
 ___
 #def

@@ -1,0 +1,1 @@
+Caso di modifica non autorizzata o accidentale di [dati personali](<dato personale>)

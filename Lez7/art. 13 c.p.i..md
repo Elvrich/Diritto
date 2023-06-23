@@ -1,0 +1,3 @@
+Non possono costituire oggetto di registrazione come marchio d'impresa i segni privi di carattere distintivo e in particolare quelli costituiti  **esclusivamente** dalle
+1. **DENOMINAZIONI GENERICHE** di prodotti o servizi
+2. o da **INDICAZIONI DESCRITTIVE** che ad essi si riferiscono, come i segni che in commercio possono servire a designare la specie, la qualità, la quantità, la destinazione, il valore, la provenienza geografica ovvero l'epoca di fabbricazione del prodotto o della prestazione del servizio o altre caratteristiche del prodotto o servizio.

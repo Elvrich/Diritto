@@ -1,0 +1,1 @@
+Quali marchio, ditta, insegna, indicazione geografica, denominazione d'origine

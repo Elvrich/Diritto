@@ -1,0 +1,1 @@
+Hanno la funzione di indicare che i prodotti e i servizi sono conformi ai requisiti di certificazione di un ente o un'organizzazione di certificazione e costituiscono un segno di qualità approvato.

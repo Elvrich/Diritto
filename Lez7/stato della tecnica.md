@@ -1,0 +1,3 @@
+Lo stato della tecnica è costituito da **tutto ciò che è stato reso accessibile al pubblico** nel territorio dello stato o all'estero prima  della data del deposito della domanda di brevetto, mediante una descrizione scritta od orale, una utilizzazione o un qualsiasi altro mezzo. (**Novità assoluta**)
+
+È pure considerato come compreso nello stato della tecnica in contenuto di **domande di brevetto italiano** o di domande di brevetto **europeo designati l'Italia**, depositate prima del deposito della nuova invenzione, pubblicate o rese accessibili al pubblico anche in questa data o più tardi.

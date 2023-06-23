@@ -1,0 +1,1 @@
+come marchio, ditta, denominazione/regione sociale, insegna, dominio Prodotti/servizi identici o affini

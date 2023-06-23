@@ -1,0 +1,1 @@
+Un marchio figurativo è un marchio in cui vengono utilizzati caratteri, una stilizzazione o un layout non standard oppure una riproduzione grafica o un colore, compresi i marchi costituiti esclusivamente da elementi figurativi.
