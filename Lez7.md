@@ -169,7 +169,7 @@ A garanzia dell'autenticità del prodotto acquistato operano gli NFT
 Un NFT è un contenuto digitale che rappresenta l'atto di proprietà e il certificato di autenticità garantita mediante blockchain della versione digitale di oggetti del mondo reale come opere d'arte, musica, giochi e collezioni di qualsiasi tipo, anche di abbigliamento.
 
 ## Legge sul diritto d'autore
-![Legge n 633 del 22.04.1941](Legge%20n%20633%20del%2022.04.1941.md#Intro n 633 del 22.04.1941#Intro>)
+![Legge n 633 del 22.04.1941](<Legge n 633 del 22.04.1941#Intro>)
 
 ### Opere non protette
 Restano esclusi dalla tutela accordata dalla presente legge **le idee e i principi** che stanno alla base di qualsiasi elemento di un programma, compresi quelli alla base delle sue interfacce.
@@ -190,13 +190,13 @@ Secondo la Corte di Giustizia dell'UE: Sono opere dell'ingegno quelle dotate di 
 Il giudizio è piuttosto **discrezionale**, in quanto sta alla sensibilità del Giudice valutare se il requisito del "carattere creativo" sussista o meno.
 
 ### Acquisto del diritto d'autore
-Vedi [art 6 legge sul diritto d'autore](Legge%20n%20633%20del%2022.04.1941.md#Art%206 n 633 del 22.04.1941#Art 6>)
+Vedi [art 6 legge sul diritto d'autore](<Legge n 633 del 22.04.1941#Art 6>)
 
 ### Diritti morali
-Vedi [art 20-24 legge sul diritto d'autore](Legge%20n%20633%20del%2022.04.1941.md#Artt%2020-24 n 633 del 22.04.1941#Artt 20-24>)
+Vedi [art 20-24 legge sul diritto d'autore](<Legge n 633 del 22.04.1941#Artt 20-24>)
 
 ### Diritto esclusivo di comunicazione al pubblico
-vedi [art 16 legge sul diritto d'autore](Legge%20n%20633%20del%2022.04.1941.md#Art%2016 n 633 del 22.04.1941#Art 16>)
+vedi [art 16 legge sul diritto d'autore](<Legge n 633 del 22.04.1941#Art 16>)
 
 ### Principali diritti di utilizzazione
 Le riproduzioni in forma stabile su supporto o temporanea sulla memoria del computer e le concessioni in uso agli utilizzatori sono le principali forma di utilizzazione.

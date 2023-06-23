@@ -1,1 +1,1 @@
-Opere che fanno riferimento al mondo dell'arte e della cultura
+Opere che fanno riferimento al mondo dell'arte e della cultura, generalmente protette dal [diritto d'autore](<Lez7#Legge sul diritto d'autore>).
