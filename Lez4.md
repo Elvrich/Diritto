@@ -11,7 +11,7 @@ Elementi:
 Chiunque (fuori dai casi di ingiuria), **comunicando con più persone** (anche in tempi diversi - es. passaparola), offende l'altrui **reputazione**, è punito con la reclusione fino a un anno o con la multa fino a euro 1032. (_soggetto assente o non in grado di percepire l'offesa_)
 \[...]
 Se l'offesa è recata col mezzo della stampa o **con qualsiasi altro mezzo di pubblicità (es. social, etc..)**, ovvero in atto pubblico, la pena è della reclusione da sei mesi a tre anni o della multa non inferiore a euro 516.
-> [!Nota]
+> [!Nota] Diffamazione e social network
 > La pubblicazione di contenuti attraverso i social network rappresenta senza dubbio una forma di "comunicazione con più persone" e , pertanto, corrisponde perfettamente alla fattispecie delineata dall'[art.595 comma III, CP], sulla **diffamazione aggravata**.
 > Se l'offesa è recata a un Corpo politico, amministrativo o giudiziario, o ad una sua rappresentanza o ad una autorità costituita in collegio, le pene sono aumentate.
 

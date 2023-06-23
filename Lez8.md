@@ -99,11 +99,11 @@ Il consumatore ha l'onere di denunciare al venditore i [[vizi]] del bene stesso 
 
 Sono clausole inserite all'interno di un regolamento contrattuale, che per il loro contenuto comportano uno squilibrio di diritti e obblighi a danno di una parte e a favore di un'altra.
 La disciplina applicabile varia a seconda della natura dei contraenti:
-1. nel c.c. ([[artt. 1341 e 1342 c.c.]]): si applica nel caso di contratti conlcusi tra professionisti o imprenditori (B2B, ossia _Business to business_) o tra consumatori (C2C ossia _consumer to consumer_);
-2. nel Cod. Consumo ([[artt 33 s.s. d. lgs. 205.2006]]): si applica nel caso in cui uno dei contraenti sia un consumatore e l'altro un professinoista o imprenditore (B2C ossia _business to consumer_).
+1. nel c.c. ([artt. 1341 e 1342 c.c.]): si applica nel caso di contratti conclusi tra professionisti o imprenditori (B2B, ossia _Business to business_) o tra consumatori (C2C ossia _consumer to consumer_);
+2. nel Cod. Consumo ([artt 33 s.s. d. lgs. 205.2006]): si applica nel caso in cui uno dei contraenti sia un consumatore e l'altro un professionista o imprenditore (B2C ossia _business to consumer_).
 
 ### Clausole vessatorie nel codice del consumo
-Il Cod. Consumo considera sempre nulle - anche se di specifica trattativa - le clausole che abbiano per oggetto o effetto ([[art. 36. c. 2 Cod. Cons.]]):
+Il Cod. Consumo considera sempre nulle - anche se di specifica trattativa - le clausole che abbiano per oggetto o effetto ([art. 36. c. 2 Cod. Cons.]):
 - escludere o limitare la responsabilità del professionista in caso di morte o danno alla persona del consumatore, risultante da un fatto o da un'omissione del professionista;
 - escludere o limitare le azioni del consumatere nei confronti del professionista o di un'altra parte in caso di inadenpimento totale o parziale o di adempimento inesatto da parte del professionista;
 - prevedere l'adesione del consumatore come estesa a clausole che non ha avuto, di fatto, la possibilità di conoscere prima della conclusione del contratto.
