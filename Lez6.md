@@ -18,7 +18,8 @@ oppure
 [[Es. 2 Accesso abusivo]]
 
 
-#NB _si noti che il danneggiamento dei dati informatici e' un altro reato, ma se è in concomitanza all'accesso abusivo, allora rientra come aggravante_
+> [!nota] Danneggiamento / Accesso Abusivo
+> _Il danneggiamento dei dati informatici e' un altro reato, ma se è in concomitanza all'accesso abusivo, allora rientra come aggravante_
 
 ## Danneggiamento Informatico
 ![[art 635 bis cp]]

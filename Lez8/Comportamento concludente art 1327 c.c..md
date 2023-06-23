@@ -1,2 +1,3 @@
-Se richiesto dal proponente o da natura affare o usi, il contratto e' concluso con l'inizio di esecuzione
-> #esempio: ordine del conpratore via e-mail e, senza rispondere, speizione della merce da parte del fornitore
+Se richiesto dal proponente o da natura affare o usi, il contratto è concluso con l'inizio di esecuzione
+> [!Esempio]
+> ordine del compratore via e-mail e, senza rispondere, spedizione della merce da parte del fornitore
