@@ -11,6 +11,7 @@ Sono altresì protetti i **programmi per elaboratore** come opere letterarie ed 
 - diritto di rivendicare la paternità dell'opera
 - diritto di opporsi a qualsiasi deformazione, mutilazione od altra modificazione, ed a ogni atto a danno dell'opera stessa, che possano essere di pregiudizio al suo onore o alla sua reputazione;
 - diritto al ripensamento.
+
 Sono inalienabili;
 gli eredi possono far valere tali diritti senza limiti di tempo;
 non hanno una "scadenza".
@@ -30,7 +31,7 @@ L'autore ha il diritto esclusivo di:
 - noleggiare l'opera
 
 Sono alienabili e cedibili a terzi;
-durano per tutta la vita dell'autore e fina a 70 anni dopo la sua morte (salvo eccezioni disciplinate da questa legge)
+durano per tutta la vita dell'autore e fino a 70 anni dopo la sua morte (salvo eccezioni disciplinate da questa legge)
 sono trasmissibili per eredità
 
 ### art 16

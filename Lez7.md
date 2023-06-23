@@ -1,7 +1,7 @@
 # Fondamenti di diritto industriale e proprietà intellettuale
 
 I diritti di proprietà intellettuale si distinguono in due macrocategorie dei diritti di proprietà industriale e dei diritti d'autore.
-Questi diritti hanno in comune l'essere fritto dell'ingegno e l'essere espressione di innovazione.
+Questi diritti hanno in comune l'essere frutto dell'ingegno e l'essere espressione di innovazione.
 
 ## Le opere dell'ingegno sono classificabili in tre macro categorie
 - [[opere dell'ingegno creativo]];
@@ -38,18 +38,18 @@ Un'invenzione è considerata unica se non è compresa nello **[[stato della tecn
 La divulgazione non avviene se essa si è verificata nei **sei mesi** che precedono la data di deposito della domanda di brevetto e risulta direttamente o indirettamente da un **abuso evidente ai danni** del richiedente o del suo dante causa
 
 ### Attività inventiva e principio della non banalità
-Un'invenzione e' considerata come implicante un'attività inventiva se, per una **_persona esperta del ramo_**, essa non risulta in modo evidente dallo stato della tecnica.
+Un'invenzione è considerata come implicante un'attività inventiva se, per una **_persona esperta del ramo_**, essa non risulta in modo evidente dallo stato della tecnica.
 
 L'attività inventiva è l'apporto creativo in campo tecnico messo a punto da un inventore.
 
-Allo stato attuale, l'inventore designato è sempre una (o più) [[persona fisica]].
+Allo stato attuale, l'inventore designato è sempre una (o più) [persone fisiche](<persona fisica>).
 
 ### Industrialità
 Un'invenzione è considerata atta ad avere un'applicazione industriale se il suo oggetto può essere fabbricato o utilizzato in qualsiasi genere di industria, compresa quella agricola.
 
 ### Durata della tutela
 - 20 anni per i brevetti di [invenzione](<Lez7#Brevetto di invenzione>);
-- 10 anni per i brevetti per [modello di utilità](<Lez7#Brevetto per modello di utilità>)
+- 10 anni per i brevetti per [modello di utilità](<Lez7#Brevetto per modello di utilità>).
 
 ### Relazione tecnica
 **I documenti che compongono la relazione di brevetto sono essenzialmente quattro:**
@@ -61,7 +61,7 @@ Un'invenzione è considerata atta ad avere un'applicazione industriale se il suo
 La relazione è completata dal titolo e dalle traduzioni richieste dagli Uffici competenti.
 
 ## Marchio
-Il marchio e' un **SEGNO DISTINTIVO** che consente di:
+Il marchio è un **SEGNO DISTINTIVO** che consente di:
 - **DISTINGUERE** i prodotti o i servizi di una impresa da quelli di altre imprese;
 - **RICONOSCERNE** a provenienza
 - **ASSOCIARE** un prodotto e/o un servizio alla storia, al prestigio, alla qualità di un'azienda
@@ -81,8 +81,8 @@ Ogni classe è composta da un'intestazione generale e da una serie di termini sp
 
 ### Requisiti di un marchio
 - [Capacità distintiva](<Lez7#Capacità distintiva>)
-- Novità 
-- Liceità 
+- [Novità](<Lez7#Novità>) 
+- [Liceità](<Lez7#Liceità>) 
 - Rappresentazione
 
 #### Capacità distintiva
@@ -106,7 +106,7 @@ di un prodotto o un servizio, che abbia una specifica origine imprenditoriale. I
 
 **Non possono costituire oggetto di registrazione come marchio d'impresa i segni costituiti _esclusivamente_:**
 - dalla forma o altra caratteristica, _imposta_ dalla natura stessa del prodotto;
-- dalla form, o altra caratteristica, del prodotto _necessaria:_ per ottenere un risultato tecnico;
+- dalla forma, o altra caratteristica, del prodotto _necessaria:_ per ottenere un risultato tecnico;
 - dalla forma, o latra caratteristica, che dà un valore sostanziale al prodotto.
 
 #### Tipologie di marchi: seconda distinzione
@@ -132,10 +132,11 @@ La giurisprudenza nazionale ha elaborato una serie di parametri il più possibil
 
 Tali criteri, ad esempio, sono l'ampiezza della presenza del prodotto sul mercato, la conoscenza effettiva che ne hanno i consumatori,  l'entità quantitativa e qualitativa degli investimenti pubblicitari, la presenza sul mercato risalente nel tempo e l'ambito territoriale del peso.
 
-Non si tratta di un elenco esaustivo, né la presenza di tutti o solo di alcuni degli elementi identificati comporta automaticamente la notorietà del marchio: sarà necessario compiere una valutazione in concreto dell0utilizzo del marchio.
+Non si tratta di un elenco esaustivo, né la presenza di tutti o solo di alcuni degli elementi identificati comporta automaticamente la notorietà del marchio: sarà necessario compiere una valutazione in concreto dell'utilizzo del marchio.
 
 ### Durata della tutela
 Il marchio acquista tutela sin dalla data del deposito. La tutela ha durata di 10 anni dal deposito, rinnovabile di decenni io decennio, potenzialmente all'infinito.
+
 ### Uso del marchio
 La _ratio_ sottostante la normativa marchi è quella di concedere il diritto esclusivo al titolare del marchio, in relazione al segno, ai prodotti e ai servizi, e al Territorio per cui è richiesta la protezione. Tale diritto è però subordinato al dovere del titolare di **USARE** in modo **SERIO E CONTINUATIVO** il marchio.
 
@@ -154,7 +155,7 @@ Il [[Metaverso]] come esempio di sinergia di diritti di proprietà intellettuale
 ## NFT
 Gli [[NFT]] sono stati portati all'attenzione degli organi legislativi a causa della crescente importanza del metaverso.
 
-Il 31 marzo 2023 è entrata in vigore la nuova edizione delle linee guida per l'esame dei marchi UE (MUE) e dei disegni e modelli comunitari registrati (DMC) dinanzi all'à'Ufficio dell'à'Unione Europea per la proprietà intellettuale (EUIPO).
+Il 31 marzo 2023 è entrata in vigore la nuova edizione delle linee guida per l'esame dei marchi UE (MUE) e dei disegni e modelli comunitari registrati (DMC) dinanzi all'Ufficio dell'Unione Europea per la proprietà intellettuale (EUIPO).
 
 La nuova edizione delle linee guida indica l'approccio dell'Ufficio alla **classificazione di NFT come beni e servizi virtuali**.
 Sono stati quindi integrati come [classe 9](<Lez7#Classificazione internazionale di Nizza>).
@@ -208,8 +209,6 @@ Per pirateria audiovisiva si intende qualsiasi attività di riproduzione, duplic
 ## Prevenzione e repressione della pirateria mediante reti di comunicazione elettronica
 
 Il 22 marzo 2023, la Camera dei Deputati ha approvato il **testo unificato delle proposte di legge** in tema di prevenzione e repressione della diffusione illecita di contenuti tutelati dal **diritto d'autore** mediante le reti di **comunicazione elettronica**.
-
-
 
 ---
 
