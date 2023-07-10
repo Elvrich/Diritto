@@ -1,4 +1,4 @@
-chi agisce nell'ambito della propria attivita' imprenditoriale...
+chi agisce nell'ambito della propria attività imprenditoriale.
 
 ---
 vedi anche [[consumatore]]

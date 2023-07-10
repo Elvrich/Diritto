@@ -5,7 +5,7 @@
 - Accordo delle parti
 - Causa
 - Oggetto
-- Forma (quando richiesta ad [[substatiam]])
+- Forma (quando richiesta ad [substatiam](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitq6OupISAAxX7hf0HHfZPAD4QFnoECAYQAw&url=https%3A%2F%2Fwww.mutuionline.it%2Fguide-mutui%2Fglossario-mutui%2Fforma-ad-substantiam.asp&usg=AOvVaw2hnj3ITJvW-rsN3VDFpmhx&opi=89978449))
 
 ### Accordo delle parti
 Si ha un accordo quando due o più persone manifestano reciprocamente le proprie volontà, e queste sono dirette allo stesso scopo.
@@ -28,11 +28,11 @@ Dall'[[art. 1346 c.c.]] L'oggetto del contratto deve essere:
 - determinato o determinabile.
 
 ### Forma
-(quando richiesta ad [[substantiam]])
+(quando richiesta ad [substantiam](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitq6OupISAAxX7hf0HHfZPAD4QFnoECAYQAw&url=https%3A%2F%2Fwww.mutuionline.it%2Fguide-mutui%2Fglossario-mutui%2Fforma-ad-substantiam.asp&usg=AOvVaw2hnj3ITJvW-rsN3VDFpmhx&opi=89978449))
 - forma espressa / tacita
 - forma scritta / orale
 - contratti formali (Atto pubblico e scrittura privata - [[art. 1350 c.c.]])
-- forma ad [[substantiam]] / forma ad [[probationem]]
+- forma ad [substantiam](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitq6OupISAAxX7hf0HHfZPAD4QFnoECAYQAw&url=https%3A%2F%2Fwww.mutuionline.it%2Fguide-mutui%2Fglossario-mutui%2Fforma-ad-substantiam.asp&usg=AOvVaw2hnj3ITJvW-rsN3VDFpmhx&opi=89978449) / forma ad [[probationem]]
 
 ![[Contratti Telematici]]
 
@@ -55,7 +55,7 @@ Il Codice del Consumo ([[D.Lsg. 206 del 2005]]) ha introdotto un correttivo a qu
 	e
 - a distanza o negoziato fuori dei locali commerciali.
 
-In presenza di tali circostanze, l[['art. 52 Cod. Consumo]] consente il consumatore di potersi liberare dall'obbligo contrattuale e quindi di esercitare il diritto di recesso senza dover fornire alcuna motivazione e senza dover sostenere costi diversi da quelli previsti all'[[articolo 56, comma 2]] e all'[[articolo 57]].
+In presenza di tali circostanze, l[['art. 52 Cod. Consumo]] consente al consumatore di potersi liberare dall'obbligo contrattuale e quindi di esercitare il diritto di recesso senza dover fornire alcuna motivazione e senza dover sostenere costi diversi da quelli previsti all'[[articolo 56, comma 2]] e all'[[articolo 57]].
 **Il termine per l'esercizio del diritto di recesso è di 14 giorni**, salvo che le parti non abbiano concordato un termine più lungo.
 
 #### Eccezioni
